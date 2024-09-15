@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0755lAEcEPQ/VQ1YE4YQFQmBoZAgxedQs0exqKNWA2M=",
+  "Source": "MultiTenantFinancialRiskManagement",
+  "BasePath": "_content/MultiTenantFinancialRiskManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
